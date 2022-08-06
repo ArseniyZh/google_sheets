@@ -5,9 +5,9 @@
  (Доступ открыт пользователю amkolotov@gmail.com)
 
 Инструкция по запуску: <br>
-1) Скачать репозиторий любым удобным способом. <br>
-2) Установить зависимости:<br>python -m pip install -r requirements.txt из корня папки app.
-3) Установить свои значения в файле config.py.
+1) Скачать репозиторий любым удобным способом. <br><em>Например: "git clone https://github.com/ArseniyZh/google_sheets".</em>
+2) Установить зависимости из корня папки app:<br>"python -m pip install -r requirements.txt".
+3) Установить свои значения в файле config.py и подлкючиться к своей БД.
 4) Запустить main.py из папки app.
 5) Наслаждаться работой скрипта. <br>
   <em>Установка Dockerfile является стандартной.</em>
